@@ -1,8 +1,0 @@
-PP1 - Clase 2:
-
-Variables:
-
-var = Forma antigua con alcance de función, generalmente se desaconseja su uso.
-let = Se usa para valores que pueden cambiar o ser reasignados (alcance de bloque).
-const = Se usa para valores que no cambiarán, constantes.
-
